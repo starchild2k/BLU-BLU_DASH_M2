@@ -1,0 +1,3 @@
+add_lunch_combo cm_BLU_DASH_M2-userdebug
+add_lunch_combo cm_BLU_DASH_M2-eng
+
